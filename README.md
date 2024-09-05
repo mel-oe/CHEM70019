@@ -7,5 +7,6 @@ allowing for the exploration of ultra-large chemical libraries and potentially a
 ## Branches
 - Benchmarking dataset(s)
 - Hit lists
+- Protein structures
 ## More information
 Additional files (cryo-EM density maps used in this study) are available separately on GitLab via. https://gitlab.com/hannahokesade/msc_digi_chem/-/commits/density-maps.
