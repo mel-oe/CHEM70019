@@ -1,3 +1,2 @@
-# MSc Digital Chemistry 23/24 | CHEM70019
-This repository contains supplementary files accompanying the manuscript titled "Structure-based virutal screening for TRPM8 using ChemEM" by H. Okesade, N. James, P. J. Ballester, and T. Rahman.
-## Abstract: 
+# MSc Digital Chemistry 23/24 | CHEM70019 | Hit lists
+Hit lists pertaining to the 54 molecules docked and ranked using the six dock-rank methodologies explored within the manuscript. The six approaches are carried out on mmTRPM8 (PDB ID: 7WRE) and pmTRPM8 (PDB ID: 6O72).
